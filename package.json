@@ -1,6 +1,6 @@
 {
-  "name": "@luxfi/eth-simple-keyring",
-  "version": "5.0.1",
+  "name": "@luxwallet/eth-simple-keyring",
+  "version": "5.0.2",
   "description": "A simple standard interface for a series of Ethereum private keys.",
   "keywords": [
     "ethereum",
